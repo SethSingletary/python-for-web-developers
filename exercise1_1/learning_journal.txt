@@ -1,0 +1,12 @@
+Reflection Questions
+
+1. Backend programming is all login and data storage. Frontend handles input and data processing. If I was hired as a backend developer
+I would expect to create mostly backend programming, so it would be mostly data storage and logic, with maybe a simple front end, like what
+was in add.py
+
+2. To convice my coworkers that python is better, I would site dynamic variables and the  simple package managment. Often in JavaScript
+the packages have to be found, so having them built in is a very good way to have everything work.
+
+3. My goals with learning python are to do the following: Build a fullstack application, seprate from the cource curriculem. I will 
+refactor the code from one of my old projects to be python based, and I will start learning everything I need to know to do fullstack
+work with django
