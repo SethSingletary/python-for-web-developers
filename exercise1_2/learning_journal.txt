@@ -1,0 +1,13 @@
+Reflection Questions
+
+1. The ipython shell provides coloring, as well as more comprehensize errors. It also lets you see lines more easily.
+
+2a. String, Strings are a way to store text, non scalar
+2b. Int, Int are a way to store full numbers, scalar
+2c. float, floats are a way to store decimal numbers, scalar
+2d. bool, bools store true or false, scalar 
+
+3. Lists are a way of storing groups that is mutable, Tuples are a way of storing groups that are non mutable, meaning they can't be changed
+
+4. I would choose to use dictonarys. Each vocabulary card will have a word, word type and a definition. Since dictonarys are mutable,
+they can be modified later on
