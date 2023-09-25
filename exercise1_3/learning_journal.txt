@@ -1,0 +1,6 @@
+Reflection Questions
+
+1. Logical Operators allow your code to make decions based on input it recieves.
+2. Fuctions are a block of code that can be called whenever you want. They are usefull when you need to repeat a task over and over
+3. So far I feel that I am doing well with my goals. I already have almost a full application made, I just need the file storage
+and then I'll need to make a front end with django
