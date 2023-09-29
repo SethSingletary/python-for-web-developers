@@ -1,0 +1,10 @@
+Reflection Questions:
+
+1. Storing local files allows you to have persistant, local data and store information offline.
+
+2. Pickles are a way of compressing files and storing them. I would almost always use them, since its a more efficient way to store data
+
+4. I would you a try block so that it would instead run my except code
+
+5. So far it is going good. I'm happy that I've learned of storing data locally. I want to build an app for people with DID so being able
+to build my outline of that locally in python will be amazing
