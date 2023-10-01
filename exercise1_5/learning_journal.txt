@@ -1,0 +1,4 @@
+1. Object Oriented programming is code that is based around objects. A benefit of this is that it allows you to easily store items 
+and modify them, allowing you to build an item based code
+
+2. Classes would be a general group, for instance humanity. Objects are a specific person, for instance you or me.
