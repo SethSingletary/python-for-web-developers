@@ -10,13 +10,14 @@ cursor = conn.cursor()
 cursor.execute('CREATE DATABASE IF NOT EXISTS task_database')
 cursor.execute('USE task_database')
 
-cursor.execute('''CREATE TABLE IF NOT EXISTS recipes(
+cursor.execute(
+    '''CREATE TABLE IF NOT EXISTS recipes(
                id INT PRIMARY KEY AUTO_INCREMENT,
                name VARCHAR(50),
                ingredients TEXT,
                cooking_time INT,
                difficulty VARCHAR(20)           
-)''')
+    )''')
                
 
 def create_recipe(conn, cursor):
