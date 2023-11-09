@@ -1,0 +1,1 @@
+In this task I focused on Django and its uses. I learned that django is good for quick applications as it comes with everything fully created and fleshed out.
