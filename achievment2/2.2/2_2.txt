@@ -1,0 +1,1 @@
+In this achievement I learned how to set up a Django project. I learned how to create the project, update it, create apps and how Django stores its data in a built in sqlite database. While this achievement itself isn't very exciting, I believe it can be used for one of my personal projects.
